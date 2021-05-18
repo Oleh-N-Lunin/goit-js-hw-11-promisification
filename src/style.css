@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: 550;
+    font-style: italic;
+}
